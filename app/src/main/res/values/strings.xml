@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AndroidPhp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello World</string>
+
+    <string name="judul">Login Application</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <string name="btnGet">Login - Get</string>
+    <string name="btnPost">Login - Post</string>
+
+    <string name="LoginMethod">Login Method</string>
+    <string name="LoginStatus">Login Status</string>
+    <string name="LoginRole">Login Role</string>
+
+    <string name="method">Choose Method</string>
+    <string name="status">Not login</string>
+    <string name="role">Not assigned</string>
+</resources>
